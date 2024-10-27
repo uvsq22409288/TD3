@@ -1,0 +1,4 @@
+pickachu.uvq.fr 192.168.12.45
+google.com 145.12.25.13
+pikachu.uvsq.fr 193.51.25.24
+pico.uvsq.fr 193.51.25.25
